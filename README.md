@@ -7,6 +7,8 @@ This repo was created for my article on the [Easiest way to flash your Sonoff, S
 
 The three files (rboot.bin, blank_config.bin, haaboot.bin) were combined into **haa-single.bin** using the cat command on MacOS.
 
+Simply flash **haa-single.bin** on ESP device.
+
 # Credits and more info
 
 ### All files archived from https://github.com/RavenSystem/esp-homekit-devices
