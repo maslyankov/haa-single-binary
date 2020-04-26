@@ -9,7 +9,12 @@ The three files (rboot.bin, blank_config.bin, haaboot.bin) were combined into **
 
 Simply flash **haa-single.bin** on ESP device.
 
+I generate this file to make your life easier. I try to update it as often as I can (usually within a day or two) and I DO NOT modify any of the files. I simply generate haa-single.bin using the command "cat" as shown in my video. If you're having trouble, make sure to go through the FAQ page - https://smarty.one/en/homekit-accessory-architect-faq
+If you're still having trouble with the firmware and you think it is because of my file, you're free to use the official repo files. :)
+
 # Credits and more info
+
+### Want to report a bug? -> https://github.com/RavenSystem/esp-homekit-devices/issues
 
 ### All files archived from https://github.com/RavenSystem/esp-homekit-devices
 
