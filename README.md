@@ -18,7 +18,7 @@ If you're still having trouble with the firmware and you think it is because of 
 
 ### Want to report a bug? -> https://github.com/RavenSystem/esp-homekit-devices/issues
 
-### All files archived from https://github.com/RavenSystem/esp-homekit-devices haaboot from https://github.com/RavenSystem/haa/releases/
+### All files archived from https://github.com/RavenSystem/esp-homekit-devices haaboot from https://github.com/RavenSystem/haa_ota/releases
 
 
 ### Firmware wiki: https://github.com/RavenSystem/esp-homekit-devices/wiki
