@@ -24,3 +24,6 @@ If you're still having trouble with the firmware and you think it is because of 
 ### Firmware wiki: https://github.com/RavenSystem/esp-homekit-devices/wiki
 
 ### All credits for this firmware go to the creator of HAA.
+
+### I will no longer update this repo, as the firmware creator started pushing a pre-concatenated file (a single file binary), which was the purpose of this. I hope it was useful to someone.
+### You can find the latest version of the firmware here: https://github.com/RavenSystem/haa/releases ( you need fullhaaboot.bin )
